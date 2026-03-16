@@ -16,6 +16,6 @@ Nome: Marcos Vinicius Carneiro
 * **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=20Qb7pNMv-4&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=2
 * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Flipping%20Card%20UI%20Design
 
-* ### Projeto 03: Social Media Icons
+* ### Projeto 04: Social Media Icons
 * **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=85tDF_h1Ci4&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=74
 * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Social%20Media%20Icons
