@@ -9,7 +9,7 @@ Nome: Marcos Vinicius Carneiro
 * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Profile%20Card%20in%20HTML
 
 ### Projeto 02: Credit Card UI
-* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=20Qb7pNMv-4&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=2
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=pLwEasHW3_I&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=3
 * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Credit%20Card%20UI
 
 ### Projeto 03: Flipping Card UI Design
