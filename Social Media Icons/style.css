@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh; 
+    background: linear-gradient(135deg, #080808, #3d3c3c);
+    color: #e6000017;
+    text-align: center;
+}
+
+.social-icons-container {
+    background: rgba(255, 255, 255, 0.1); 
+}
+    
+.fab.fa-facebook-f{
+    color: #3b5998;
+}
+
+.fab.fa-instagram{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.fab.fa-linkedin-in{
+    color: #0072b1;
+}
+
+.fab.fa-github{
+    color: #333;
+}
+
+.fab.fa-twitter{
+    color: #567be7;
+}
+
+.icons{
+    display: flex;
+    margin: 40px 0;
+    gap: 10px;
+}
+    
+.icons li{
+    position: relative;
+    list-style: none;
+    height: 70px;
+    width: 70px;
+    background: #dde1e7;
+    margin: 0 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, 0.288);
+}
+
+.icons li a{
+    line-height: 70px;
+    font-size: 27px;
+    color: #b6bbc5;
+}
+
+.second li.shadow-2 a{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 55px;
+    width: 55px;
+    line-height: 55px;
+    border-radius: 50%;
+    font-size: 24px;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, 0.288);
+}
+.first li.shadow-1{
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, 0.288);
+
+
+}
+
+.first li.shadow-1 a{
+    font size:25px ;
+}
