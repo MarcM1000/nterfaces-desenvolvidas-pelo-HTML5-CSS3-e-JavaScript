@@ -34,4 +34,7 @@ Nome: Marcos Vinicius Carneiro
  
  * * *  ### Projeto 09: Profile Card in HTML
 * * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Profile%20Card%20in%20HTML
+ 
+  * * * *  ### Projeto 10: Glassmorphism Website Design
+* * **Link do Projeto no Github:** [[https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Profile%20Card%20in%20HTML](https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Glassmorphism%20Website%20Design/img)](https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Glassmorphism%20Website%20Design)
 
