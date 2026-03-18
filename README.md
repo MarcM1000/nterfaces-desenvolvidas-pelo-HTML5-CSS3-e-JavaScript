@@ -28,3 +28,7 @@ Nome: Marcos Vinicius Carneiro
  
   * *  ### Projeto 07: Search Box
 * * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Search%20Box
+ 
+  * * *  ### Projeto 08: CSS Vertical Tabs
+* * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Tab%20using%20HTML%20%26%20CSS
+
