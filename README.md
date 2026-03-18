@@ -25,3 +25,6 @@ Nome: Marcos Vinicius Carneiro
  
   *  ### Projeto 06: Website using HTML and CSS
 * * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Website%20using%20HTML%20and%20CSS
+ 
+  * *  ### Projeto 07: Search Box
+* * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Search%20Box
