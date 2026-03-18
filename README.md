@@ -31,4 +31,7 @@ Nome: Marcos Vinicius Carneiro
  
   * * *  ### Projeto 08: CSS Vertical Tabs
 * * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Tab%20using%20HTML%20%26%20CSS
+ 
+ * * *  ### Projeto 09: Profile Card in HTML
+* * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Profile%20Card%20in%20HTML
 
