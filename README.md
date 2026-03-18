@@ -22,3 +22,6 @@ Nome: Marcos Vinicius Carneiro
 
 * ### Projeto 05: Responsive Contact Us Form in HTML And CSS
 * * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Responsive%20Contact%20Us%20Form%20in%20HTML%20And%20CSS
+ 
+  *  ### Projeto 06: Website using HTML and CSS
+* * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Website%20using%20HTML%20and%20CSS
