@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper{
+    height: 100%;
+    width: 330px;
+    position: relative;
+}
+
+#sidebar{
+    position: fixed;
+    height: 100%;
+    width: 270px;
+    background: #404040;
+    left: -270px;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+#sidebar .title{
+    color: #f2f2f2;
+    font-size: 25px;
+    line-height: 65px;
+    font-weight: 600;
+    background: #333;
+    text-align: center;
+}
+
+.list-items{
+    list-style: none;
+}
+
+.list-items li{
+    padding-left: 40px;
+    line-height: 50px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    border-bottom: 1px solid #333;
+}
+
+.list-items li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+}
+
+.list-items li a i{
+    margin-right: 15px;
+}
+
+.list-items li:hover{
+    background: #333;
+    box-shadow: 0 0 10px #222;
+    transition: 0.3s;
+}
+
+.icons{
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.icons a{
+    margin: 0 5px;
+    color: #fff;
+    height: 40px;
+    width: 40px;
+    background: #4a4a4a;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.icons a:hover{
+    background: #222;
+}
+
+.wrapper .menu-btn{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    height: 45px;
+    width: 45px;
+    z-index: 999;
+    color: #f2f2f2;
+    background: #4a4a4a;
+    border: 1px solid #333;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 23px;
+}
+
+#btn{
+    display: none;
+}
+
+#btn:checked ~ #sidebar{
+    left: 0;
+}
+
+#btn:checked ~ .menu-btn i::before{
+    content: "\f00d";
+}
