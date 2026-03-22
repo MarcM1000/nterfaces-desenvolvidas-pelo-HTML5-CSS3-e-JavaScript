@@ -37,4 +37,17 @@ Nome: Marcos Vinicius Carneiro
  
   * * * *  ### Projeto 10: Glassmorphism Website Design
 * * **Link do Projeto no Github:** [[https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Profile%20Card%20in%20HTML](https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Glassmorphism%20Website%20Design/img)](https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Glassmorphism%20Website%20Design)
+ 
+  * * ### Projeto 11: Side Navigation Bar
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=gz7-5E5QPpk&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=15
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Side%20Navigation%20Bar%20in%20HTML%20and%20CSS
+
+*   * * ### Projeto 12: 3D Flip Card 
+* **Link do Projeto no Youtube:** [https://www.youtube.com/watch?v=gz7-5E5QPpk&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=15](https://www.youtube.com/watch?v=wslu40pa1ww&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=16)
+* **Link do Projeto no Github:** [https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Side%20Navigation%20Bar%20in%20HTML%20and%20CSS](https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/3D%20Flip%20Card)
+
+* *   * * ### Projeto 13: Menu Bar Hover Effect 
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=ewsXz0Du9iA&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=17
+* **Link do Projeto no Github:** [[https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Side%20Navigation%20Bar%20in%20HTML%20and%20CSS](https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/3D%20Flip%20Card) ](https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Menu%20Bar%20Hover%20Effect)
+
 
