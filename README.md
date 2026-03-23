@@ -103,5 +103,18 @@ Nome: Marcos Vinicius Carneiro
 * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Responsive%20Profile%20Cards
 * 
 
+* * * * * *  ### Projeto 27: Loading Animation
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=htU3Xs5Nhvw&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=32
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Loading%20Animatio
 
+* * * * * * *  ### Projeto 28: Profile Card Design 
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=VmXVmnYmF38&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=33
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Profile%20Card%20Design
 
+* * * * * * * *  ### Projeto 29: Custom Radio Buttons  
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=DgCTL7GkoDA&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=34
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Custom%20Radio%20Buttons
+
+* * * * * * * *  ### Projeto 30: Share Button Tooltip 
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=lw7RNxt_JFY&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=35
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Share%20Button%20Tooltip
