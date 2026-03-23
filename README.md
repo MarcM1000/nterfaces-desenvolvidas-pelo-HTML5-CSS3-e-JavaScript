@@ -86,10 +86,21 @@ Nome: Marcos Vinicius Carneiro
 * **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=sjcysH0T9zs&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=25
 * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Neumorphism%20Side%20Bar%20Menu
 
-* * * *  ### Projeto 23: Create a Card with 3Du 
+* * * *  ### Projeto 23: Create a Card with 3D
 * **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=c2lG_tExar4&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=28
 * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/3D%20Flip%20Card
 
+* * * *  ### Projeto 24: Animated Button with Border Hover
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=3LzD2OoDcOA&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=29
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Animated%20Button%20with%20Border%20Hover
+
+* * * * *  ### Projeto 25: Gradient Text Effect
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=4vgD6yhnNOI&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=30
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Gradient%20Text%20Effect
+
+* * * * * *  ### Projeto 26: Responsive Profile Cards
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=LV118IYeQE0&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=31
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Responsive%20Profile%20Cards
 * 
 
 
