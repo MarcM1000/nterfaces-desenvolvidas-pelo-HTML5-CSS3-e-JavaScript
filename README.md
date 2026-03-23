@@ -78,6 +78,18 @@ Nome: Marcos Vinicius Carneiro
 * **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=ps575maf37Y&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=24
 * **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Responsive%20Navigation%20Menu%20Bar
 
+* *  ### Projeto 21: Responsive Footer using 
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=-8WFVqadxgM&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=26
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Responsive%20Footer%20using
+
+* * *  ### Projeto 22: Neumorphism Side Bar Menu 
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=sjcysH0T9zs&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=25
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/Neumorphism%20Side%20Bar%20Menu
+
+* * * *  ### Projeto 23: Create a Card with 3Du 
+* **Link do Projeto no Youtube:** https://www.youtube.com/watch?v=c2lG_tExar4&list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf&index=28
+* **Link do Projeto no Github:** https://github.com/MarcM1000/nterfaces-desenvolvidas-pelo-HTML5-CSS3-e-JavaScript/tree/main/3D%20Flip%20Card
+
 * 
 
 
